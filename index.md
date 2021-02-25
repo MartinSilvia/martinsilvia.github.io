@@ -1,7 +1,7 @@
-# Hello, it's me
+<center> <h1>Hello, it's me</h1> </center>
 
-## Silvia
+<center> <h2>Silvia</h2> </center>
 
-...and I love to laugh
+<center> <h3>...and I love to laugh </h3> </center>
 
-![Silvia](Silvia.jpg)
+<center> ![Silvia](Silvia.jpg) </center>
