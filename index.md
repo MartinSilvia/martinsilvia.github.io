@@ -1,4 +1,5 @@
-<center> # Hello, it's me
+# Hello, it's me
+
 ## Silvia
 
 ...and I love to laugh
