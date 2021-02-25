@@ -4,4 +4,4 @@
 
 <center> <h3>...and I love to laugh </h3> </center>
 
-<center> ![Silvia](Silvia.jpg) </center>
+![Silvia](Silvia.jpg)
