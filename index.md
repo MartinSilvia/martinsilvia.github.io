@@ -1,4 +1,4 @@
-<center> # Hello, it's me </center>
+# Hello, it's me
 
 ## Silvia
 
